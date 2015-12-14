@@ -1,0 +1,28 @@
+name: Ormsby Beta
+favicon: null
+layout_spectrum: 0.9557110057212412
+typography_spectrum: 0.7721676302608103
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8687038731295615
+  lightness: 0.9360479637980461
+  saturation: 0.4126181793399155
+  rhythmicContrast: 0.9367954041808844
+purpose: []
